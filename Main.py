@@ -16,8 +16,4 @@ for item in input_data.split(', '):
   elif item.lstrip("-").isnumeric():
     data.append(int(item))
 print(selectionSort(data, len(data)))
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priva
+
